@@ -14,6 +14,13 @@ O trabalho foi feito na Unreal Engine e foi usado alguns assets do marketplace d
 
 ![Captura de tela 2023-12-10 230858](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-pedro-henrique-de-oliveira/assets/138339001/ebcdebdb-9d64-4de6-86bb-801488d95189)
 
-## Link para arquivo zip contendo o vídeo e a aplicação no drive:
+## Link para arquivo zip contendo a aplicação no drive:
 
 https://sgapucminasbr-my.sharepoint.com/:f:/g/personal/1456161_sga_pucminas_br/EmGR_db2F91Lvdmbv6XRkoYBgdshBcGrGcHQASqhggtOsQ?e=0bATWM
+
+## Vídeo:
+
+
+
+https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-pedro-henrique-de-oliveira/assets/138339001/7f2f24bd-2aa1-41e5-ad01-a569d9625243
+
